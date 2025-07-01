@@ -53,17 +53,6 @@ time-loop/
 
 ---
 
-## **⚠️ Copyright & Disclaimer**  
-
-© **2024 [Your Name / Organization]**. All rights reserved.  
-
-- This project is a **creative work** intended for personal, non-commercial use.  
-- **Do not redistribute, sell, or claim as your own** without explicit permission.  
-- Audio files (if used) may be subject to their own licenses—replace with original/royalty-free assets if publishing.  
-- Inspired by themes of time, memory, and love, but **all written content is original**.  
-
----
-
 ## **🔗 Extend & Customize**  
 
 - Want to **add your own story branches**? Modify the HTML files and link new choices.  
